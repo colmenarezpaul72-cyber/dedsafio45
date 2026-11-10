@@ -1,0 +1,113 @@
+{
+  "_ayuda": "Cada categoria es una pestaña creativa. 'items' son nombres de item/bloque (sin mod). Lo que no esta en ninguna cae en 'general'. 'ocultos' no salen en ninguna pestaña (siguen existiendo con /give).",
+  "categorias": [
+    {
+      "id": "gleba",
+      "nombre": "Dedsafio - Gleba",
+      "icono": "dedsafio4:pelos_de_gleba",
+      "items": [
+        "pelos_de_gleba",
+        "garra_gleba",
+        "caparazon_de_nautilius",
+        "grasa",
+        "corazon_espada",
+        "cuerdas",
+        "excremento",
+        "ni_idea_que_es_esto",
+        "piedra_quiu",
+        "cuerda_quiu",
+        "tela_quiu",
+        "fruto_quiu",
+        "carne_glebanoide",
+        "cerebro_gleba",
+        "costilla",
+        "cuero",
+        "espada_gleba",
+        "nautilus_oseo_pequeno_spawn_egg",
+        "nautilus_spawn_egg",
+        "cerebro_amarillo_spawn_egg",
+        "glebanoide_helmet",
+        "glebanoide_chestplate",
+        "glebanoide_leggings",
+        "glebanoide_boots",
+        "arco_glebanoide",
+        "totem_glebanoide",
+        "bloque_gleba",
+        "bloque_grasa",
+        "carne_blanda",
+        "carne_oscura",
+        "carne_podrida",
+        "carne_rosa",
+        "carne_venosa",
+        "tejido_palido"
+      ]
+    },
+    {
+      "id": "prehistorico",
+      "nombre": "Dedsafio - Prehistórico",
+      "icono": "ruleta:ambar",
+      "items": [
+        "ambar",
+        "ambar_en_bruto",
+        "ambar_con_insecto",
+        "manzana_de_ambar",
+        "mena_ambar",
+        "tierra_jurasica",
+        "cesped_jurasico",
+        "piedra_ruinas",
+        "pilar_ruinas",
+        "portal_dino",
+        "salida_dino",
+        "cica",
+        "helecho_roca",
+        "cuerda",
+        "sangre_reptisaurio"
+      ]
+    },
+    {
+      "id": "limbo",
+      "nombre": "Dedsafio - Limbo",
+      "icono": "ruleta:limbo_helmet",
+      "items": [
+        "limbo_helmet",
+        "limbo_chestplate",
+        "limbo_leggings",
+        "limbo_boots",
+        "totem_limbo",
+        "martillo_oscuro"
+      ]
+    },
+    {
+      "id": "espacio",
+      "nombre": "Dedsafio - Espacio",
+      "icono": "ghostsafio:nave",
+      "items": [
+        "nave",
+        "cabina_nave",
+        "ala_izquierda_nave",
+        "ala_derecha_nave",
+        "motor_nave",
+        "fuselaje_nave",
+        "totem_espacio",
+        "fruta_espacio"
+      ]
+    },
+    {
+      "id": "bolsas",
+      "nombre": "Dedsafio - Bolsas",
+      "icono": "sacos:bolsa",
+      "namespaces": [
+        "sacos"
+      ]
+    }
+  ],
+  "general": {
+    "id": "general",
+    "nombre": "Dedsafio - General",
+    "icono": "dedsafio4:antidoto"
+  },
+  "ocultos": [
+    "banco_parte",
+    "nave_espacial"
+  ]
+}

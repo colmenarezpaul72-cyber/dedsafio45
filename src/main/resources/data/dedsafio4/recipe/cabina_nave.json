@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "WWO",
+    "N W",
+    "WWO"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:white_concrete"
+    },
+    "O": {
+      "item": "minecraft:orange_glazed_terracotta"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "id": "dedsafio4:cabina_nave",
+    "count": 1
+  }
+}

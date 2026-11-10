@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " C ",
+    "AMB",
+    " F "
+  ],
+  "key": {
+    "C": {
+      "item": "dedsafio4:cabina_nave"
+    },
+    "A": {
+      "item": "dedsafio4:ala_izquierda_nave"
+    },
+    "M": {
+      "item": "dedsafio4:motor_nave"
+    },
+    "B": {
+      "item": "dedsafio4:ala_derecha_nave"
+    },
+    "F": {
+      "item": "dedsafio4:fuselaje_nave"
+    }
+  },
+  "result": {
+    "id": "ghostsafio:nave",
+    "count": 1
+  }
+}
